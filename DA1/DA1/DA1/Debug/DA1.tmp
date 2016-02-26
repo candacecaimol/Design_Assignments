@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\CPE301_HW\DA1\DA1\DA1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\CPE301_HW\DA1\DA1\DA1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\CPE301_HW\DA1\DA1\DA1\Debug\DA1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA1.map</FILE>
+  <FILE>DA1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <StoreNum><FILE>C:\CPE301_HW\DA1\DA1\DA1\main.asm</FILE><LINE>23</LINE></StoreNum>
+  <AddNums><FILE>C:\CPE301_HW\DA1\DA1\DA1\main.asm</FILE><LINE>35</LINE></AddNums>
+  <CmpSums><FILE>C:\CPE301_HW\DA1\DA1\DA1\main.asm</FILE><LINE>62</LINE></CmpSums>
+  <FindModulus7><FILE>C:\CPE301_HW\DA1\DA1\DA1\main.asm</FILE><LINE>41</LINE></FindModulus7>
+  <FindModulus3><FILE>C:\CPE301_HW\DA1\DA1\DA1\main.asm</FILE><LINE>45</LINE></FindModulus3>
+  <CheckModulus3><FILE>C:\CPE301_HW\DA1\DA1\DA1\main.asm</FILE><LINE>55</LINE></CheckModulus3>
+  <End><FILE>C:\CPE301_HW\DA1\DA1\DA1\main.asm</FILE><LINE>69</LINE></End>
+ </LABELS>
+</ASSEMBLER_INFO>
